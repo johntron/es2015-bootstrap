@@ -1,6 +1,6 @@
 # ES2015 base project
 
-This project uses Babel to transpile both back-end and front-end JavaScript on-the-fly, and SystemJS to load transpiled modules in the browser. See [demo](https://frill-bard.hyperdev.space/).
+This project uses Babel to transpile both back-end and front-end JavaScript on-the-fly, and SystemJS to load transpiled modules in the browser. See [HyperDev](https://hyperdev.com/#!/project/frill-bard) or [demo](https://frill-bard.hyperdev.space/).
 
 
 ## Usage
