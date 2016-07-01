@@ -1,0 +1,21 @@
+<head>
+  <title>ES2015 base project</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <p>
+    This application supports ES2015 in the back-end and front-end.
+  </p>
+  Original:
+  <pre id="original"></pre>
+  
+  <br>
+  
+  Transpiled:
+  <pre id="transpiled"></pre>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.19.31/system.js"></script>
+  <script>
+    SystemJS.import('/app.js');
+  </script>
+</body>
